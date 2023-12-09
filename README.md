@@ -15,14 +15,14 @@ Encoded the 'Genre' column using Label Encoding to convert categorical data into
 
 * **Visualization:**
 
-* Utilized matplotlib to visualize the distribution of customers based on annual income and spending score.
-* Plotted clusters of male and female customers for a visual representation.
+Utilized matplotlib to visualize the distribution of customers based on annual income and spending score.
+Plotted clusters of male and female customers for a visual representation.
 
 * **K-Means Clustering:**
 
-* Applied the K-Means algorithm to identify clusters in the dataset.
-* Determined the optimal number of clusters using the Elbow Method.
-* Visualized the identified clusters and centroids.
+Applied the K-Means algorithm to identify clusters in the dataset.
+Determined the optimal number of clusters using the Elbow Method.
+Visualized the identified clusters and centroids.
 
 * **Interactive Visualization:**
 
